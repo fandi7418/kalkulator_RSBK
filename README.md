@@ -7,3 +7,4 @@ Anggota Kelompok
 
 # Screenshoot Program
 
+![ss](https://user-images.githubusercontent.com/38351558/83586832-aec41a00-a577-11ea-954b-ccaabd4a4823.png)
